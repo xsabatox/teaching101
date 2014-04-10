@@ -31,7 +31,7 @@ Students will be able to:
 * Producing vibrations
 * Modification and coupling of sound signals
 * Balancing amplification and efficiency
-* __Grading assessment: group__
+* __Grading assessment: article group discussion__
 
 ###Week 3 - Sound signal propagation
 
@@ -45,11 +45,11 @@ Students will be able to:
 * Coupling between medium and the receiver
 * Modification of captured sound signals
 * Detection and analysis of received sound signals
-* __Grading assessment: Bioacoustics jeopardy!__
 
 ###Week 5 - Sound recording
 
 ###Week 6 - Sound analysis
+* __Grading assessment: Bioacoustics jeopardy!__
 
 ###Weeks 7 & 8 - Research project
 
