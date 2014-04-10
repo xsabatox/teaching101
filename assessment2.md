@@ -58,6 +58,7 @@ Students will be able to:
 * Time domain and frequency domain representations of sound
 * Spectrogram and short-time Fourier transform
 * Time-frequency uncertainty principle
+* Using a sound analysis software: Raven Pro 1.4
 * __Grading assessment: Bioacoustics jeopardy!__
 
 ###Weeks 7 & 8 - Research project
