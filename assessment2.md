@@ -49,32 +49,29 @@ Students will be able to:
 * Noise masking
 * __Formative assessment: signal generation and propagation quiz__
 
-###Week 5 - Sound spectrum analysis
+###Week 5 - Sound reception
+
+* Coupling between medium and the receiver
+* Modification of captured sound signals
+* Detection and analysis of received sound signals
+* __Grading assessment: mid term exams__
+
+###Week 6 - Sound spectrum analysis
 
 * Time domain and frequency domain representations of sound
 * Spectrogram and short-time Fourier transform
 * Time-frequency uncertainty principle
 * Using a sound analysis software: Raven Pro 1.4
-* __Grading assessment: mid term exams__
-
-###Week 6 - Sound reception
-
-* Coupling between medium and the receiver
-* Modification of captured sound signals
-* Detection and analysis of received sound signals
 * __Formative assessment: research pre-project group discussion__
 
 ###Week 7 - Research project
 
-* Data sampling
-* Spectrogram analysis
+* Data sampling and spectrogram analysis
 * __Formative assignment: bioacoustics jeopardy!__
 
 ###Week 8 - Research project
 
-* Statistical analysis
-* Writing
-* __Grading assessment: research project presentation__
+* __Grading assessment: research project slide presentation__
 * __Grading assessment: final term exams__
 
 
