@@ -20,17 +20,29 @@ Students will be able to:
 
 ###Week 1 - Properties of sound
 
-* Introduction and formative assessment (in class survey)
+* __Formative assessment: previous knowledge quiz__
+
 * The media of sound communication
 * The nature of sound
 * The characterization of sounds
 * The propagation of sound
- 
+
+###Week 5 - Sound recording
+
+* Microphones and hydrophones types
+* Recorders types
+* Digital sampling: sample rate and sample size
+* Storage requirements
+* Hands on: microphones and recorders
+
+* __Formative assessment: equipment operation quiz__
+
 ###Week 2 - Sound signal generation
 
 * Producing vibrations
 * Modification and coupling of sound signals
 * Balancing amplification and efficiency
+
 * __Grading assessment: article group discussion__
 
 ###Week 3 - Sound signal propagation
@@ -46,12 +58,7 @@ Students will be able to:
 * Modification of captured sound signals
 * Detection and analysis of received sound signals
 
-###Week 5 - Sound recording
 
-* Microphones and hydrophones types
-* Recorders types
-* Digital sampling: sample rate and sample size
-* Storage requirements
 
 ###Week 6 - Sound spectrum analysis
 
