@@ -55,7 +55,7 @@ Students will be able to:
 * Spectrogram and short-time Fourier transform
 * Time-frequency uncertainty principle
 * Using a sound analysis software: Raven Pro 1.4
-* __Grading assessment: mid terms__
+* __Grading assessment: mid term exams__
 
 ###Week 6 - Sound reception
 
@@ -74,7 +74,7 @@ Students will be able to:
 ###Week 8 - Research project
 
 * Writing
-* __Grading assessment: final terms__
+* __Grading assessment: final term exams__
 * __Grading assessment: research project presentation__
 
 ==============================================================================================
