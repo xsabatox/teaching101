@@ -53,8 +53,7 @@ Students will be able to:
 * Coupling between medium and the receiver
 * Modification of captured sound signals
 * Detection and analysis of received sound signals
-
-
+* __Grading assessment: Bioacoustics jeopardy!__
 
 ###Week 6 - Sound spectrum analysis
 
@@ -62,7 +61,6 @@ Students will be able to:
 * Spectrogram and short-time Fourier transform
 * Time-frequency uncertainty principle
 * Using a sound analysis software: Raven Pro 1.4
-* __Grading assessment: Bioacoustics jeopardy!__
 
 ###Weeks 7 & 8 - Research project
 * __Grading assessment: final terms__
