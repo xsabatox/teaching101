@@ -64,7 +64,6 @@ Students will be able to:
 * Detection and analysis of received sound signals
 * __Formative assessment: pre-project group discussion__
 
-
 ###Week 7 - Research project
 
 * Data sampling
@@ -73,9 +72,11 @@ Students will be able to:
 
 ###Week 8 - Research project
 
+* Statistical analysis
 * Writing
-* __Grading assessment: final term exams__
 * __Grading assessment: research project presentation__
+* __Grading assessment: final term exams__
+
 
 ==============================================================================================
 
