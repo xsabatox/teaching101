@@ -20,6 +20,7 @@ Students will be able to:
 
 ###Week 1 - Properties of sound
 
+* __Formative assessment: online survey__
 * The media of sound communication
 * The nature of sound
 * The characterization of sounds
@@ -30,6 +31,7 @@ Students will be able to:
 * Producing vibrations
 * Modification and coupling of sound signals
 * Balancing amplification and efficiency
+* __Grading assessment: group 
 
 ###Week 3 - Sound signal propagation
 
