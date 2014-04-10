@@ -62,7 +62,7 @@ Students will be able to:
 * Coupling between medium and the receiver
 * Modification of captured sound signals
 * Detection and analysis of received sound signals
-* __Formative assessment: pre-project group discussion__
+* __Formative assessment: research pre-project group discussion__
 
 ###Week 7 - Research project
 
