@@ -26,7 +26,7 @@ Students will be able to:
 * The characterization of sounds
 * The propagation of sound
 
-###Week 5 - Sound recording
+###Week 2 - Sound recording
 
 * Microphones, hydrophones and recorders types
 * Digital sampling: sample rate and sample size
@@ -34,21 +34,22 @@ Students will be able to:
 * Hands on: microphones and recorders
 * __Formative assessment: equipment operation quiz__
 
-###Week 2 - Sound signal generation
+###Week 3 - Sound signal generation
 
 * Producing vibrations
 * Modification and coupling of sound signals
 * Balancing amplification and efficiency
 * __Grading assessment: article group discussion__
 
-###Week 3 - Sound signal propagation
+###Week 4 - Sound signal propagation
 
 * Overall attenuation
 * Frequency pattern distorion
 * Temporal masking distortion
 * Noise masking
+* __Formative assessment: signal generation and propagation quiz__
 
-###Week 4 - Sound reception
+###Week 5 - Sound reception
 
 * Coupling between medium and the receiver
 * Modification of captured sound signals
