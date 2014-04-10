@@ -1,4 +1,4 @@
-#Introduction to Biacoustics or Bioacoustics 101
+#Bioacoustics 101
 
 
 ##Course Description
@@ -8,7 +8,7 @@ This is a biology undergraduate student oriented course.
 
 ##Learning Outcomes
 
-Students will be able to
+Students will be able to:
 
 1. Explain how animals produce, modify, detect and analyze sound to communicate using acoustic signals.
 2. Select and use the proper equipment to capture and record acoustic signals.
@@ -24,7 +24,7 @@ Students will be able to
 * The nature of sound
 * The characterization of sounds
 * The propagation of sound
-
+ 
 ###Week 2 - Sound signal generation
 
 * Producing vibrations
@@ -43,6 +43,12 @@ Students will be able to
 * Coupling between medium and the receiver
 * Modification of captured sound signals
 * Detection and analysis of received sound signals
+
+###Week 5 - Sound recording
+
+###Week 6 - Sound analysis
+
+###Weeks 7 & 8 - Research project
 
 ==============================================================================================
 
