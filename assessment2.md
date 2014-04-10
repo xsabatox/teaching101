@@ -53,11 +53,11 @@ Students will be able to:
 * Digital sampling: sample rate and sample size
 * Storage requirements
 
-###Week 6 - Sound analysis
-
-*
+###Week 6 - Sound spectrum analysis
 
 * Time domain and frequency domain representations of sound
+* Spectrogram and short-time Fourier transform
+* Time-frequency uncertainty principle
 * __Grading assessment: Bioacoustics jeopardy!__
 
 ###Weeks 7 & 8 - Research project
