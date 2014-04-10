@@ -50,14 +50,13 @@ Students will be able to:
 
 * Microphones and hydrophones types
 * Recorders types
-* Digital representation of sound
 * Digital sampling: sample rate and sample size
+* Storage requirements
 
 ###Week 6 - Sound analysis
 
-* 
-* 
-* What sound is?
+*
+
 * Time domain and frequency domain representations of sound
 * __Grading assessment: Bioacoustics jeopardy!__
 
