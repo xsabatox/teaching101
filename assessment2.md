@@ -62,14 +62,14 @@ Students will be able to:
 * Coupling between medium and the receiver
 * Modification of captured sound signals
 * Detection and analysis of received sound signals
-* __Formative assignment: sound analysis quiz and pre-project group discussion__
+* __Formative assessment: pre-project group discussion__
 
 
 ###Week 7 - Research project
 
 * Data sampling
 * Spectrogram analysis
-* __Grading assessment: Bioacoustics jeopardy!__
+* __Formative assignment: bioacoustics jeopardy!__
 
 ###Week 8 - Research project
 
