@@ -55,14 +55,14 @@ Students will be able to:
 * Spectrogram and short-time Fourier transform
 * Time-frequency uncertainty principle
 * Using a sound analysis software: Raven Pro 1.4
-* __Formative assessment: sound analysis quiz__
+* __Grading assessment: mid terms__
 
 ###Week 6 - Sound reception
 
 * Coupling between medium and the receiver
 * Modification of captured sound signals
 * Detection and analysis of received sound signals
-* __Formative assignment: pre-project group discussion__
+* __Formative assignment: sound analysis quiz and pre-project group discussion__
 
 
 ###Week 7 - Research project
