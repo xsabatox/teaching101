@@ -48,7 +48,17 @@ Students will be able to:
 
 ###Week 5 - Sound recording
 
+* Microphones and hydrophones types
+* Recorders types
+* Digital representation of sound
+* Digital sampling: sample rate and sample size
+
 ###Week 6 - Sound analysis
+
+* 
+* 
+* What sound is?
+* Time domain and frequency domain representations of sound
 * __Grading assessment: Bioacoustics jeopardy!__
 
 ###Weeks 7 & 8 - Research project
