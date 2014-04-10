@@ -52,6 +52,8 @@ Students will be able to:
 * __Grading assessment: Bioacoustics jeopardy!__
 
 ###Weeks 7 & 8 - Research project
+* __Grading assessment: final terms__
+* __Grading assessment: research project presentation__
 
 ==============================================================================================
 
