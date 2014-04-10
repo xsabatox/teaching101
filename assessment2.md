@@ -20,7 +20,7 @@ Students will be able to:
 
 ###Week 1 - Properties of sound
 
-* __Formative assessment: online survey__
+* Introduction and formative assessment (in class survey)
 * The media of sound communication
 * The nature of sound
 * The characterization of sounds
@@ -31,7 +31,7 @@ Students will be able to:
 * Producing vibrations
 * Modification and coupling of sound signals
 * Balancing amplification and efficiency
-* __Grading assessment: group 
+* __Grading assessment: group__
 
 ###Week 3 - Sound signal propagation
 
@@ -45,6 +45,7 @@ Students will be able to:
 * Coupling between medium and the receiver
 * Modification of captured sound signals
 * Detection and analysis of received sound signals
+* __Grading assessment: Bioacoustics jeopardy!__
 
 ###Week 5 - Sound recording
 
