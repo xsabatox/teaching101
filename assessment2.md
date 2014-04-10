@@ -67,11 +67,13 @@ Students will be able to:
 
 ###Week 7 - Research project
 
-* Data 
+* Data sampling
 * Spectrogram analysis
 * __Grading assessment: Bioacoustics jeopardy!__
 
-###Week 8 - Research project 
+###Week 8 - Research project
+
+* Writing
 * __Grading assessment: final terms__
 * __Grading assessment: research project presentation__
 
