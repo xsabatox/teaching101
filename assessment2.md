@@ -8,13 +8,11 @@ Through a combination of lectures, fieldwork and computer lab activities, this c
 
 The goal is to prepare you to be a bioacoustician: a scientist able to design, execute and present a bioacoustics research. As a bioacoustician, you can work as professor, industrial researcher, wildlife consultant or a sound engineer. 
 
-##Overview
-
-###Format
+##Format
 
 This course will be taught in classroom, twice a week for eight weeks (16 sessions). It will combine lectures, field work and computer lab activities, as students will be required to develop a research project.
 
-###Pre-requisite
+##Pre-requisites
 
 Students must know the elements of scientific method to design their research projects. They also need high school physics' knowledge on waves. Prior knowledge on animal behavior is desirable but not required.
 
