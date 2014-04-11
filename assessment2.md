@@ -6,8 +6,8 @@
 * [Overview](overview)
 * [Learning outcomes](learning-outcomes)
 * [Schedule](schedule)
-   * [Week 1](week-1---properties-of-sound)
-   * [Week 2](week-2---sound-recording)
+* [Readings and resources](readinga-and-resources)
+
 
 ##Course description
 
@@ -28,7 +28,7 @@ This course will be taught in classroom, twice a week for eight weeks (16 sessio
 Students must know the elements of scientific method to design their research projects. They also need high school physics' knowledge on waves. Prior knowledge on animal behavior is desirable but not required.
 
 
-##Learning Outcomes
+##Learning outcomes
 
 Students will be able to:
 
