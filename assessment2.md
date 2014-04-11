@@ -6,7 +6,7 @@ The ability to provide and obtain information is essential to all living species
 
 Through a combination of lectures, fieldwork and computer lab activities, this course will provide an introduction to bioacoustics. Enrolling to this course you will learn about the properties of sound, mechanisms of sound signals production, propagation and reception, how to record acoustic signals and how to perform a spectrogram analysis.
 
-The goal is to prepare you to be a bioacoustician: a scientist able to design, execute and present a bioacoustics research. As a bioacoustician, you can work as professor, industrial researcher, wildlife consultant or a sound engineer. 
+The goal is to prepare you to be a bioacoustician: a scientist able to design, execute and present a bioacoustics research. As a bioacoustician, you can work as professor, industrial researcher, wildlife consultant or a sound engineer.
 
 ##Format
 
