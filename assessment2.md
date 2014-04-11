@@ -2,6 +2,8 @@
 
 ##Course Description
 
+The ability to provide and obtain information is essential to all living species, and animals use visual, chemical, tactical, electrical and acoustic signals to communicate. Bioacoustics is a cross-disciplinary science that studies how animals produce, modify, detect and analyze sound to communicate using acoustic signals.
+
 Goal: Prepare biology students to be able to design, execute and present a bioacoustic research.
 
 
@@ -13,7 +15,7 @@ This course will be taught in classroom, twice a week for eight weeks (16 sessio
 
 ###Pre-requisites
 
-This is a biology undergraduate student oriented course. Students must know the elements of scientific method to design their research projects. They also need high school physics' knowledge on waves. Previous knowledge on animal behavior is desirable but not required.
+This is a biology undergraduate student oriented course. Students must know the elements of scientific method to design their research projects. They also need high school physics' knowledge on waves. Prior knowledge on animal behavior is desirable but not required.
 
 
 ##Learning Outcomes
