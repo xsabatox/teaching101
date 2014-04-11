@@ -67,7 +67,7 @@ Students will be able to:
 * Coupling between medium and the receiver
 * Modification of captured sound signals
 * Detection and analysis of received sound signals
-* __Grading assessment: mid term exams__
+* __Grading assessment: mid term exam__
 
 ###Week 6 - Sound spectrum analysis
 
@@ -86,7 +86,7 @@ Students will be able to:
 ###Week 8 - Research project
 
 * __Grading assessment: research project slide presentation__
-* __Grading assessment: final term exams__
+* __Grading assessment: final term exam__
 
 
 ==============================================================================================
