@@ -1,6 +1,13 @@
 #Bioacoustics 101
 
-##Course Description
+##Index
+
+* [Course description](course-description)
+* [Overview](overview)
+* [Learning outcomes](learning-outcomes)
+* [Schedule](schedule)
+
+##Course description
 
 The ability to provide and obtain information is essential to all living species and animals use visual, chemical, tactical, electrical and acoustic signals to communicate. Bioacoustics is a cross-disciplinary science that studies how animals produce, modify, detect and analyze sound to communicate using acoustic signals.
 
@@ -126,7 +133,7 @@ Sinauer Associates. ISBN: 978-0878930456.
 
 1. BRUDZYNSKI, S. (editor): Handbook of Mammalian Vocalization, Volume 19: An Integrative Neuroscience Approach. Academic Press, 2009. ISBN 978-0-12-374593-4.
 2. CATCHPOLE, C.K.; SLATER, P.J.B.: Bird Song: Biological Themes and Variations. Cambridge University Press, 2008. ISBN 0521872421.
-3. DROSOPOULOS, S.; M.F. CLARIDGE (editors): Insect Sounds and Communication: Physiology, Behaviour, Ecology, and Evolution With DVD (Contemporary Topics in Entomology). Taylor & Francis, 2006. ISBN 0-8493-2060-7.
+3. DROSOPOULOS, S.; M.F. CLARIDGE (editors): Insect Sounds and Communication: Physiology, Behaviour, Ecology, and Evolution [With DVD]. (Contemporary Topics in Entomology). Taylor & Francis, 2006. ISBN 0-8493-2060-7.
 4. HOPP,S.L.; M.J. OWREN; C.S. EVANS (editors): Animal Acoustic Communication. Sound Analysis and Research Methods. Springer-Verlag Berlin/Heidelberg 1998. ISBN 3-540-53353-2.
 5. GERHARDT, C.; F. HUBER: Acoustic Communication in Insects and Anurans: Common Problems and Diverse Solutions. Univ of Chicago Press 2002. ISBN 0226288331.
 6. KROODSMA, D.E.: The Singing Life of Birds: The Art and Science of Listening to Birdsong [With CD]. Houghton Mifflin Co., 2005. ISBN 0618405682.
