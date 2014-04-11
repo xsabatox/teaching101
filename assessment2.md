@@ -13,7 +13,7 @@ This course will be taught in classroom, twice a week for eight weeks (16 sessio
 
 ###Pre-requisites
 
-This is a biology undergraduate student oriented course. Students must know the elements of scientific method to design their research projects. They also need high school physics' knowledge on waves.
+This is a biology undergraduate student oriented course. Students must know the elements of scientific method to design their research projects. They also need high school physics' knowledge on waves. Previous knowledge on animal behavior is desirable but not required.
 
 
 ##Learning Outcomes
