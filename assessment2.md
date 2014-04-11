@@ -26,6 +26,11 @@ Students will be able to:
 * Perform a sound spectrogram analysis to investigate the recorded acoustic signals.
 * Develop a research project about animal acoustic signaling.
 
+##Grading policy
+* __Mid term exam:__ This will be an exam with ten open questions about the content covered in weeks 1, 2 and 3. _This will represent 25% of the final grade._
+* __Peer reviewed article discussion:__ Students will be organized in groups and must present to the class three articles on bioacoustics. Some interesting topics are: recording and spectral analyses methods, census methods, behavior descriptions and literature reviews. Each group will have 10 minutes for presentation and an additional 5 minutes to answer questions about their articles. _This will represent 20% of the final grade._
+* __Research project:__ Students will be organized in groups and will have to develop a bioacoustics study. They will have to review the scientific literature, design an experiment, record acoustic signals, perform an spectrogram analysis and present their results to the class. Each group will have 20 minutes for presentation and an additional 10 minutes to answer questions about their studies. _This will represent 30% of the final grade._
+* __Final exam:__ This will be an exam with ten open questions about the content covered in weeks 4, 5 and 6. _This will represent 25% of the final grade._
 
 ##Schedule
 
