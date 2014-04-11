@@ -114,6 +114,11 @@ Students will be able to:
 ####Session 16
 * __Grading assessment: final term exam__
 
+##Readings and resources
+
+1. Bradbury, J.W. & Vehrencamp, S.L. 2011. Principles of Animal Communication, 2st Edition. Sunderland, MA:
+Sinauer Associates
+2. Raven Pro 1.4 User's Manual 2010. Revision 11. The Cornell Lab of Ornithology - Bioacoustics Research Program. Available at http://www.birds.cornell.edu/brp/raven/Raven14UsersManual.pdf
 
 ==============================================================================================
 
