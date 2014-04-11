@@ -35,6 +35,7 @@ Students will be able to:
 
 ####Session 1
 * Course and staff introduction
+* Staff and students expectations
 * __Formative assessment: prior knowledge and learning styles (online quiz)__
 
 ####Session 2
