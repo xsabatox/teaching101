@@ -6,6 +6,8 @@
 * [Overview](overview)
 * [Learning outcomes](learning-outcomes)
 * [Schedule](schedule)
+   * [Week 1](week-1---properties-of-sound)
+   * [Week 2](week-2---sound-recording)
 
 ##Course description
 
