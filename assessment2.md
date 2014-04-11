@@ -34,11 +34,12 @@ Students will be able to:
 ###Week 1 - Properties of sound
 
 ####Session 1
-* __Formative assessment: previous knowledge quiz__
-* The media of sound communication
-* The nature of sound
+* Course and staff introduction
+* __Formative assessment: prior knowledge quiz__
 
 ####Session 2
+* The media of sound communication
+* The nature of sound
 * The characterization of sounds
 * The propagation of sound
 
@@ -48,7 +49,7 @@ Students will be able to:
 * Microphones, hydrophones and recorders types
 * Digital sampling: sample rate and sample size
 * Storage requirements
-* 
+
 ####Session 4
 * Hands on: microphones and recorders
 * __Formative assessment: equipment operation quiz__
@@ -68,10 +69,10 @@ Students will be able to:
 ####Session 7
 * Overall attenuation
 * Frequency pattern distorion
-
-####Session 8
 * Temporal masking distortion
 * Noise masking
+
+####Session 8
 * __Formative assessment: signal generation and propagation quiz__
 
 ###Week 5 - Sound reception
@@ -97,13 +98,20 @@ Students will be able to:
 
 ###Week 7 - Research project
 
+#### Session 13
 * Field work: data sampling 
 * Computer lab: spectrogram analysis
-* __Formative assignment: bioacoustics jeopardy!__
 
-###Week 8 - Research project
+#### Session 14
+* Field work: data sampling 
+* Computer lab: spectrogram analysis
 
+###Week 8 - Final week
+
+####Session 15
 * __Grading assessment: research project slide presentation__
+
+####Session 16
 * __Grading assessment: final term exam__
 
 
