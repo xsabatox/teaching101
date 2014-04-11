@@ -82,7 +82,7 @@ Students will be able to:
 * Noise masking
 
 ####Session 8
-* __Formative assessment: bioacoustics jeopardy!__
+* __Formative assessment: bioacoustics jeopardy! (game show competition)__
 
 ###Week 5 - Sound reception
 
@@ -103,13 +103,14 @@ Students will be able to:
  
 ####Session 12
 * Computer lab: using a sound analysis software: Raven Pro 1.4
-* __Formative assessment: research pre-project group discussion__
+* __Formative assessment: research pre-project discussion (group discussion)__
 
 ###Week 7 - Research project
 
 #### Session 13
 * Field work: data sampling 
 * Computer lab: spectrogram analysis
+* __Formative assessment: sound spectrum analysis (informal questions)__
 
 #### Session 14
 * Field work: data sampling 
@@ -118,7 +119,7 @@ Students will be able to:
 ###Week 8 - Final week
 
 ####Session 15
-* __Grading assessment: research project slide presentation__
+* __Grading assessment: research project discussion (slide show presentation)__
 
 ####Session 16
 * __Grading assessment: final term exam__
