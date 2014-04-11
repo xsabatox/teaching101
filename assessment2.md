@@ -69,7 +69,7 @@ Students will be able to:
 * __Homework assignment: sound signal generation__
 
 ####Session 6
-* __Grading assessment: mid term exam__
+* __Summative assessment: mid term exam__
 
 ###Week 4 - Sound signal propagation
 
@@ -92,7 +92,7 @@ Students will be able to:
 * __Homework assignment: sound reception__
 
 ####Session 10
-* __Grading assessment: peer reviewed article discussion (group discussion)__
+* __Summative assessment: peer reviewed article discussion (group discussion)__
 
 ###Week 6 - Sound spectrum analysis
 
@@ -120,10 +120,10 @@ Students will be able to:
 ###Week 8 - Final week
 
 ####Session 15
-* __Grading assessment: research project discussion (slide show presentation)__
+* __Summative assessment: research project discussion (slide show presentation)__
 
 ####Session 16
-* __Grading assessment: final term exam__
+* __Summative assessment: final term exam__
 
 ##Readings and resources
 
