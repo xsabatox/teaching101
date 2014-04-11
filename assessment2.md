@@ -73,7 +73,7 @@ Students will be able to:
 * Noise masking
 
 ####Session 8
-* __Formative assessment: signal generation and propagation quiz__
+* __Formative assessment: bioacoustics jeopardy!__
 
 ###Week 5 - Sound reception
 
