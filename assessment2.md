@@ -2,11 +2,11 @@
 
 ##Course Description
 
-The ability to provide and obtain information is essential to all living species and animals use visual, chemical, tactical, electrical and acoustic signals to communicate. Bioacoustics is a cross-disciplinary science that studies how animals produce, modify, detect and analyze sound to communicate using acoustic signals. 
+The ability to provide and obtain information is essential to all living species and animals use visual, chemical, tactical, electrical and acoustic signals to communicate. Bioacoustics is a cross-disciplinary science that studies how animals produce, modify, detect and analyze sound to communicate using acoustic signals.
 
-Through a combination of lectures, field work and computer lab activities, this course will provide an introduction to bioacoustics. Enrolling to this course, you will learn about the properties of sound, mechanisms of sound signals production, propagation and reception, how to record acoustic signals and how to perform a spectrogram analysis. The goal is to prepare you to be a bioacoustician: a scientist able to design, execute and present a bioacoustic research.
-As a bioacoustician, you can work as professor, industrial researcher, wildlife consultant or a sound engineer.
+Through a combination of lectures, fieldwork and computer lab activities, this course will provide an introduction to bioacoustics. Enrolling to this course, you will learn about the properties of sound, mechanisms of sound signals production, propagation and reception, how to record acoustic signals and how to perform a spectrogram analysis.
 
+The goal is to prepare you to be a bioacoustician: a scientist able to design, execute and present a bioacoustics research. As a bioacoustician, you can work as professor, industrial researcher, wildlife consultant or a sound engineer. 
 
 ##Overview
 
@@ -14,9 +14,9 @@ As a bioacoustician, you can work as professor, industrial researcher, wildlife 
 
 This course will be taught in classroom, twice a week for eight weeks (16 sessions). It will combine lectures, field work and computer lab activities, as students will be required to develop a research project.
 
-###Pre-requisites
+###Pre-requisite
 
-This is a biology undergraduate student oriented course. Students must know the elements of scientific method to design their research projects. They also need high school physics' knowledge on waves. Prior knowledge on animal behavior is desirable but not required.
+Students must know the elements of scientific method to design their research projects. They also need high school physics' knowledge on waves. Prior knowledge on animal behavior is desirable but not required.
 
 
 ##Learning Outcomes
