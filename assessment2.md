@@ -71,12 +71,13 @@ Students will be able to:
 * Time domain and frequency domain representations of sound
 * Spectrogram and short-time Fourier transform
 * Time-frequency uncertainty principle
-* Using a sound analysis software: Raven Pro 1.4
+* Computer lab: using a sound analysis software: Raven Pro 1.4
 * __Formative assessment: research pre-project group discussion__
 
 ###Week 7 - Research project
 
-* Data sampling and spectrogram analysis
+* Field work: data sampling 
+* Computer lab: spectrogram analysis
 * __Formative assignment: bioacoustics jeopardy!__
 
 ###Week 8 - Research project
