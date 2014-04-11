@@ -4,7 +4,7 @@
 
 The ability to provide and obtain information is essential to all living species and animals use visual, chemical, tactical, electrical and acoustic signals to communicate. Bioacoustics is a cross-disciplinary science that studies how animals produce, modify, detect and analyze sound to communicate using acoustic signals.
 
-Through a combination of lectures, fieldwork and computer lab activities, this course will provide an introduction to bioacoustics. Enrolling to this course, you will learn about the properties of sound, mechanisms of sound signals production, propagation and reception, how to record acoustic signals and how to perform a spectrogram analysis.
+Through a combination of lectures, fieldwork and computer lab activities, this course will provide an introduction to bioacoustics. Enrolling to this course you will learn about the properties of sound, mechanisms of sound signals production, propagation and reception, how to record acoustic signals and how to perform a spectrogram analysis.
 
 The goal is to prepare you to be a bioacoustician: a scientist able to design, execute and present a bioacoustics research. As a bioacoustician, you can work as professor, industrial researcher, wildlife consultant or a sound engineer. 
 
