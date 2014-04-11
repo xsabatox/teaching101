@@ -1,14 +1,5 @@
 #Bioacoustics 101
 
-##Index
-
-* [Course description](course-description)
-* [Overview](overview)
-* [Learning outcomes](learning-outcomes)
-* [Schedule](schedule)
-* [Readings and resources](readinga-and-resources)
-
-
 ##Course description
 
 The ability to provide and obtain information is essential to all living species and animals use visual, chemical, tactical, electrical and acoustic signals to communicate. Bioacoustics is a cross-disciplinary science that studies how animals produce, modify, detect and analyze sound to communicate using acoustic signals.
@@ -44,7 +35,7 @@ Students will be able to:
 
 ####Session 1
 * Course and staff introduction
-* __Formative assessment: prior knowledge quiz__
+* __Formative assessment: prior knowledge and learning styles (online quiz)__
 
 ####Session 2
 * The media of sound communication
@@ -61,7 +52,7 @@ Students will be able to:
 
 ####Session 4
 * Hands on: microphones and recorders
-* __Formative assessment: equipment operation quiz__
+* __Formative assessment: equipment operation (informal questions)__
 
 ###Week 3 - Sound signal generation
 
@@ -71,7 +62,7 @@ Students will be able to:
 * Balancing amplification and efficiency
 
 ####Session 6
-* __Grading assessment: article group discussion__
+* __Grading assessment: peer reviewed article discussion (group discussion)__
 
 ###Week 4 - Sound signal propagation
 
