@@ -116,16 +116,18 @@ Students will be able to:
 
 ##Readings and resources
 
-1. Bradbury, J.W. & Vehrencamp, S.L. 2011. Principles of Animal Communication, 2st Edition. Sunderland, MA:
-Sinauer Associates
+###Required
+
+1. BRADBURY, J.W.; VEHRENCAMP, S.L. 2011. Principles of Animal Communication, 2st Edition. Sunderland, MA:
+Sinauer Associates. ISBN: 978-0878930456.
 2. Raven Pro 1.4 User's Manual 2010. Revision 11. The Cornell Lab of Ornithology - Bioacoustics Research Program. Available at http://www.birds.cornell.edu/brp/raven/Raven14UsersManual.pdf
+ 
+###Optional
 
-==============================================================================================
-
-- Understand what is sound and its properties
-- Understand how animals produce and modify sound to emit acoustic signals
-- Understand how attenuation, distortion and masking affects acoustic signals propagation 
-- Understand how animals detect, modify and analyse received acoustic signals
-- Understand the acoustic to digital recording process
-- Discuss the importance of acoustic surveys for conservation biology
-- Analise how sound characteristics relate to animal acoustic signaling
+1. BRUDZYNSKI, S. (editor): Handbook of Mammalian Vocalization, Volume 19: An Integrative Neuroscience Approach. Academic Press, 2009. ISBN 978-0-12-374593-4.
+2. CATCHPOLE, C.K.; SLATER, P.J.B.: Bird Song: Biological Themes and Variations. Cambridge University Press, 2008. ISBN 0521872421.
+3. DROSOPOULOS, S.; M.F. CLARIDGE (editors): Insect Sounds and Communication: Physiology, Behaviour, Ecology, and Evolution [With DVD] (Contemporary Topics in Entomology). Taylor & Francis, 2006. ISBN 0-8493-2060-7.
+4. HOPP,S.L.; M.J. OWREN; C.S. EVANS (editors): Animal Acoustic Communication. Sound Analysis and Research Methods. Springer-Verlag Berlin/Heidelberg 1998. ISBN 3-540-53353-2.
+5. GERHARDT, C.; F. HUBER: Acoustic Communication in Insects and Anurans: Common Problems and Diverse Solutions. Univ of Chicago Press 2002. ISBN 0226288331.
+6. KROODSMA, D.E.: The Singing Life of Birds: The Art and Science of Listening to Birdsong [With CD]. Houghton Mifflin Co., 2005. ISBN 0618405682.
+7. MARLER, P., H. SLABBEKOORN (editors): Nature's Music, w. CD-ROM: The Science of Birdsong. Elsevier Academic Press, 2004. ISBN 12-473070-1
