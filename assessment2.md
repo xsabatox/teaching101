@@ -100,12 +100,12 @@ Students will be able to:
 ###Week 7 - Research project
 
 #### Session 13
-* Field work: data sampling 
+* Fieldwork: data sampling 
 * Computer lab: spectrogram analysis
 * __Formative assessment: sound spectrum analysis (informal questions)__
 
 #### Session 14
-* Field work: data sampling 
+* Fieldwork: data sampling 
 * Computer lab: spectrogram analysis
 
 ###Week 8 - Final week
