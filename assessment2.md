@@ -9,7 +9,7 @@ Goal: Prepare biology students to be able to design, execute and present a bioac
 
 ###Format
 
-This course will be taught in classroom, twice a week for eight weeks (16 sessions). It will combine lectures and field work, as students will be required to develop a research project.
+This course will be taught in classroom, twice a week for eight weeks (16 sessions). It will combine lectures, field work and computer lab activities, as students will be required to develop a research project.
 
 ###Pre-requisites
 
