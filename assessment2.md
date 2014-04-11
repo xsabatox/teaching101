@@ -2,6 +2,7 @@
 
 ##Course Description
 
+Goal: Prepare biology students to be able to design, execute and present a bioacoustic research.
 
 
 ##Overview
