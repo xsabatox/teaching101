@@ -1,19 +1,28 @@
 #Bioacoustics 101
 
-
 ##Course Description
 
-This is a biology undergraduate student oriented course.
+
+
+##Overview
+
+###Format
+
+This course will be taught in classroom, twice a week for eight weeks (16 sessions). It will combine lectures and field work, as students will be required to develop a research project.
+
+###Pre-requisites
+
+This is a biology undergraduate student oriented course. Students must know the elements of scientific method to design their research projects. They also need high school physics' knowledge on waves.
 
 
 ##Learning Outcomes
 
 Students will be able to:
 
-1. Explain how animals produce, modify, detect and analyze sound to communicate using acoustic signals.
-2. Select and use the proper equipment to capture and record acoustic signals.
-3. Perform a sound spectrogram analysis to investigate the recorded acoustic signals.
-4. Develop a research project about animal acoustic signaling.
+* Explain how animals produce, modify, detect and analyze sound to communicate using acoustic signals.
+* Select and use the proper equipment to capture and record acoustic signals.
+* Perform a sound spectrogram analysis to investigate the recorded acoustic signals.
+* Develop a research project about animal acoustic signaling.
 
 
 ##Schedule
