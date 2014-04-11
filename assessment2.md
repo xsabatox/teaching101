@@ -33,47 +33,65 @@ Students will be able to:
 
 ###Week 1 - Properties of sound
 
+####Session 1
 * __Formative assessment: previous knowledge quiz__
 * The media of sound communication
 * The nature of sound
+
+####Session 2
 * The characterization of sounds
 * The propagation of sound
 
 ###Week 2 - Sound recording
 
+####Session 3
 * Microphones, hydrophones and recorders types
 * Digital sampling: sample rate and sample size
 * Storage requirements
+* 
+####Session 4
 * Hands on: microphones and recorders
 * __Formative assessment: equipment operation quiz__
 
 ###Week 3 - Sound signal generation
 
+####Session 5
 * Producing vibrations
 * Modification and coupling of sound signals
 * Balancing amplification and efficiency
+
+####Session 6
 * __Grading assessment: article group discussion__
 
 ###Week 4 - Sound signal propagation
 
+####Session 7
 * Overall attenuation
 * Frequency pattern distorion
+
+####Session 8
 * Temporal masking distortion
 * Noise masking
 * __Formative assessment: signal generation and propagation quiz__
 
 ###Week 5 - Sound reception
 
+####Session 9
 * Coupling between medium and the receiver
 * Modification of captured sound signals
 * Detection and analysis of received sound signals
+
+####Session 10
 * __Grading assessment: mid term exam__
 
 ###Week 6 - Sound spectrum analysis
 
+####Session 11
 * Time domain and frequency domain representations of sound
 * Spectrogram and short-time Fourier transform
 * Time-frequency uncertainty principle
+ 
+####Session 12
 * Computer lab: using a sound analysis software: Raven Pro 1.4
 * __Formative assessment: research pre-project group discussion__
 
