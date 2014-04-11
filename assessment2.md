@@ -43,6 +43,7 @@ Students will be able to:
 * The nature of sound
 * The characterization of sounds
 * The propagation of sound
+* __Homework assignment: properties of sound__
 
 ###Week 2 - Sound recording
 
@@ -50,6 +51,7 @@ Students will be able to:
 * Microphones, hydrophones and recorders types
 * Digital sampling: sample rate and sample size
 * Storage requirements
+* __Homework assignment: sound recording__
 
 ####Session 4
 * Hands on: microphones and recorders
@@ -61,9 +63,10 @@ Students will be able to:
 * Producing vibrations
 * Modification and coupling of sound signals
 * Balancing amplification and efficiency
+* __Homework assignment: sound signal generation__
 
 ####Session 6
-* __Grading assessment: peer reviewed article discussion (group discussion)__
+* __Grading assessment: mid term exam__
 
 ###Week 4 - Sound signal propagation
 
@@ -72,6 +75,7 @@ Students will be able to:
 * Frequency pattern distorion
 * Temporal masking distortion
 * Noise masking
+* __Homework assignment: sound signal propagation__
 
 ####Session 8
 * __Formative assessment: bioacoustics jeopardy! (game show competition)__
@@ -82,9 +86,10 @@ Students will be able to:
 * Coupling between medium and the receiver
 * Modification of captured sound signals
 * Detection and analysis of received sound signals
+* __Homework assignment: sound reception__
 
 ####Session 10
-* __Grading assessment: mid term exam__
+* __Grading assessment: peer reviewed article discussion (group discussion)__
 
 ###Week 6 - Sound spectrum analysis
 
@@ -92,6 +97,7 @@ Students will be able to:
 * Time domain and frequency domain representations of sound
 * Spectrogram and short-time Fourier transform
 * Time-frequency uncertainty principle
+* __Homework assignment: sound spectrum analysis__
  
 ####Session 12
 * Computer lab: using a sound analysis software: Raven Pro 1.4
